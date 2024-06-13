@@ -1,5 +1,10 @@
 # Demonstration project of CRUD and SQL Injection while giving a lecture on Database Systems 2024 on Poznań University of Technology
 
+## Authors
+- Anna Gąsiorowska
+- Ignacy Kuźniewski
+- Stanisław Mazik
+
 ## Installing project
 ### Databse initialization with Docker (docker is required)
 ```bash
@@ -13,7 +18,7 @@ cd backend
 pip install -r requirements.txt
 ```
 
-### Frontend React & TypeScript dependencies (nodejs i required with npm)
+### Frontend React & TypeScript dependencies (nodejs is required with npm)
 ```bash
 cd frontend
 npm i
